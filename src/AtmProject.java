@@ -9,7 +9,8 @@ public class AtmProject {
         //versiyon3
         System.out.println("Git ögrenmek cok kolay");
         //version4
-        System.out.println("java örenmek zormus");
-        //version5
+
+        System.out.println("metin branch in kodlarini yazdi");
+        //version mtn1
     }
 }
