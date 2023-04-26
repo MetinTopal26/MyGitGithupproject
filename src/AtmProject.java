@@ -15,5 +15,8 @@ public class AtmProject {
 
         System.out.println("bir kisim notlar");
         //mtn2
+
+        System.out.println("desikk");
+        //mtn3
     }
 }
