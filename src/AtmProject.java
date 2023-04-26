@@ -5,5 +5,7 @@ public class AtmProject {
         //version1
         System.out.println("Java is easy");
         //versiyon2
+        System.out.println("Learn JAva earn money");
+        //versiyon3g
     }
 }
