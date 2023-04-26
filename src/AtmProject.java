@@ -12,5 +12,8 @@ public class AtmProject {
 
         System.out.println("metin branch in kodlarini yazdi");
         //version mtn1
+
+        System.out.println("bir kisim notlar");
+        //mtn2
     }
 }
