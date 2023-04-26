@@ -18,5 +18,7 @@ public class AtmProject {
 
         System.out.println("desikk");
         //mtn3
+
+        System.out.println("ek degisiklik ama yarimmmmm. master egececem");
     }
 }
