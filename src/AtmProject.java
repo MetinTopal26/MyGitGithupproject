@@ -20,5 +20,7 @@ public class AtmProject {
         //mtn3
 
         System.out.println("ek degisiklik ama yarimmmmm. master egececem");
+
+        //Localde degisiklik yaptim.
     }
 }
