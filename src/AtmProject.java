@@ -22,5 +22,6 @@ public class AtmProject {
         System.out.println("ek degisiklik ama yarimmmmm. master egececem");
 
         //Localde degisiklik yaptim.
+        //remote de degisiklik yaptim
     }
 }
